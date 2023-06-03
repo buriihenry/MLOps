@@ -7,3 +7,7 @@ models
 exp-tracking-env
 0
 1
+mlruns
+output
+mlartifacts
+mlflow.db
